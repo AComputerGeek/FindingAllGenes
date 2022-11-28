@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=FindingAllGenes
+comment0.text=\r\n\ \r\n\ @author\:\ Amir\ Armion\ \r\n\ \r\n\ @version\:\ V.01\r\n\ \r\n
+comment1.params=dna
+comment1.target=java.lang.String\ findGene(java.lang.String)
+comment2.params=dna\ startCodon\ stopCodonPattern
+comment2.target=int\ findStopCodon(java.lang.String,\ int,\ java.lang.String)
+numComments=3
